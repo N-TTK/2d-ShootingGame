@@ -61,7 +61,7 @@ public class GameController : MonoBehaviour
         if (gameOverText.activeSelf == true)
         {
             //もしスペースボタンが押されたらシーンの再読み込み
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown("z"))
             {
                 audioSource.PlayOneShot(SE);
                 Initiate.Fade("Main", Color.black, 1.0f);

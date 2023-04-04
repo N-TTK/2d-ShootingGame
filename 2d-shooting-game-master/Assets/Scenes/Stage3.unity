@@ -1156,7 +1156,7 @@ MonoBehaviour:
   m_Text: 'Mission Clear!
 
 
-    Press: z'
+    Press: Z'
 --- !u!222 &4481591036969206257
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1235,7 +1235,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Mission Failed\u2026\n\nPress: Space"
+  m_Text: "Mission Failed\u2026\n\nPress: Z"
 --- !u!222 &4481591037771753601
 CanvasRenderer:
   m_ObjectHideFlags: 0

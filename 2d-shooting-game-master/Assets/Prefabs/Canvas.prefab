@@ -416,7 +416,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Mission Failed\u2026\n\nPress: Space"
+  m_Text: "Mission Failed\u2026\n\nPress: Z"
 --- !u!1 &4525352023107174989
 GameObject:
   m_ObjectHideFlags: 0
